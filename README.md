@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Muller and I'm a Computer Science Student, from South Africa</h2>
+<h2 align="left">My name is Muller and I'm a Computer Science Student, from South Africa</h2>
 
 ![](https://raw.githubusercontent.com/MullerPietPompies/githubStats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MullerPietPompies/githubStats/master/generated/overview.svg#gh-light-mode-only)

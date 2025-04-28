@@ -1,4 +1,5 @@
-<h2 align="left"> Hey! My name is Muller and I'm a Computer Science Student, from South Africa</h2>
+<h1 align="center">👋 Hi, I’m Muller</h1>
+<p align="center">🎓 Computer Science Student | 🇿🇦 South Africa</p>
 
 ### Interests
 
@@ -6,8 +7,7 @@
 - Computer Vision
 - Cybersecurity
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MullerPietPompies&show_icons=true)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MullerPietPompies&show_icons=true&theme=dark)
 
 ###
 

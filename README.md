@@ -8,7 +8,7 @@
 - Cybersecurity
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MullerPietPompies&show_icons=true&theme=dark&hide=stars,prs&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MullerPietPompies)](https://github.com/MullerPietPompies)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MullerPietPompies&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/MullerPietPompies)
 
 ###
 

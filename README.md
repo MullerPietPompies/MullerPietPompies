@@ -10,12 +10,12 @@
   </a>
 </div>
 
-<h3 align="center"> 🎯 What I’m Into </h3>
+<h2 align="center"> 🎯 What I’m Into </h2>
 
 <li align="center">
-- Systems Programming
-- Computer Vision
-- Cybersecurity
+<li align="center"> Systems Programming </li>
+<li align="center"> Computer Vision </li>
+<li align="center"> Cybersecurity </li>
 </li>
 
 <h3 align="center"> 🛠️ Tech Stack </h3>

@@ -6,8 +6,8 @@
 - Computer Vision
 - Cybersecurity
 
-![](https://raw.githubusercontent.com/MullerPietPompies/githubStats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/MullerPietPompies/githubStats/master/generated/overview.svg#gh-light-mode-only)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MullerPietPompies&show_icons=true)
+
 
 ###
 

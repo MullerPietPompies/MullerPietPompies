@@ -12,12 +12,14 @@
 
 <h3 align="center"> 🎯 What I’m Into </h3>
 
+<li align="center">
 - Systems Programming
 - Computer Vision
 - Cybersecurity
+</li>
 
 <h3 align="center"> 🛠️ Tech Stack </h3>
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />

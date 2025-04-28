@@ -1,45 +1,37 @@
-<h2 align="left"> Hey! My name is Muller and I'm a Computer Science Student, from South Africa</h2>
+<h1 align="center">👋 Hi, I’m Muller</h1>
+<p align="center">🎓 Computer Science Student | 🇿🇦 South Africa</p>
 
-### Interests
+### 🎯 What I’m Into
+- Systems Programming  •  Computer Vision  •  Cybersecurity
 
-- Systems Programming
-- Computer Vision
-- Cybersecurity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MullerPietPompies/githubStats/main/generated/languages.svg#gh-dark-mode-only" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/MullerPietPompies/githubStats/main/generated/overview.svg#gh-light-mode-only" alt="Stats overview" />
+</p>
 
-![](https://raw.githubusercontent.com/MullerPietPompies/githubStats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/MullerPietPompies/githubStats/master/generated/overview.svg#gh-light-mode-only)
+<details>
+  <summary>🛠️ Tech Stack</summary>
+  <p align="center">
+    <img src="…/go.svg" width="40" alt="Go" /> 
+    <img src="…/cplusplus.svg" width="40" alt="C++" /> 
+    <img src="…/python.svg" width="40" alt="Python" /> 
+    <img src="…/rust.svg" width="40" alt="Rust" /> 
+    <img src="…/javascript.svg" width="40" alt="JavaScript" />
+  </p>
+</details>
 
-###
+## 🚀 Featured Projects
+- [A-10 Warthog Renderer](https://github.com/…) — low-poly model in pure OpenGL/C++  
+- [NixOS NVChad Setup](https://github.com/…) — flakes-based config with multi-lang LSP  
+- [Beta-Testers Infra](https://github.com/…) — Dockerized microservices in Node & Go
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
+## 📫 How to reach me
+[✉️ Email](mailto:…) • [🔗 LinkedIn](…) • [🎵 Spotify](…)
 
-###
-
-<div align="left">
-  <a href="mullerdannhauser1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/muller-dannhauser-02923424b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="left">
-  <a href="https://open.spotify.com/user/bo1c6g7z0j95c9phsylr5zbik">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=bo1c6g7z0j95c9phsylr5zbik&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
+<details>
+  <summary>📈 GitHub Stats</summary>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=MullerPietPompies&show_icons=true" alt="GitHub Stats" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=MullerPietPompies&theme=github-light" alt="Contributions Graph" />
+  </p>
+</details>

@@ -35,7 +35,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MullerPietPompies&show_icons=true&theme=dark&hide=stars,prs&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MullerPietPompies&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/MullerPietPompies)
 
-## 🎶 Music I am currently listening
+### 🎶 Music I am currently listening
 
 <div align="center">
   <a href="https://open.spotify.com/user/bo1c6g7z0j95c9phsylr5zbik">

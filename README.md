@@ -17,7 +17,7 @@
 - Cybersecurity
 
 ### 🛠️ Tech Stack
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -37,7 +37,7 @@
 
 ### 🎶 Music I am currently listening
 
-<div align="center">
+<div align="left">
   <a href="https://open.spotify.com/user/bo1c6g7z0j95c9phsylr5zbik">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=bo1c6g7z0j95c9phsylr5zbik&count=5&unique=true" alt="Spotify recently played"  />
   </a>

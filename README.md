@@ -10,13 +10,13 @@
   </a>
 </div>
 
-### 🎯 What I’m Into
+<h3 align="center"> 🎯 What I’m Into </h3>
 
 - Systems Programming
 - Computer Vision
 - Cybersecurity
 
-### 🛠️ Tech Stack
+<h3 align="center"> 🛠️ Tech Stack </h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
   <img width="12" />
@@ -30,12 +30,12 @@
 </div>
 
 
-### 📈 Stats
+<h3 align="center"> 📈 Stats </h3>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MullerPietPompies&show_icons=true&theme=dark&hide=stars,prs&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MullerPietPompies&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/MullerPietPompies)
 
-### 🎶 Music I am currently listening
+<h3 align="center">🎶 Music I am currently listening </h3>
 
 <div align="left">
   <a href="https://open.spotify.com/user/bo1c6g7z0j95c9phsylr5zbik">

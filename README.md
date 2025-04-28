@@ -7,8 +7,7 @@
 - Computer Vision
 - Cybersecurity
 
-###
-<summary>🛠️ Tech Stack</summary>
+### 🛠️ Tech Stack
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
   <img width="12" />
@@ -32,12 +31,11 @@
   </a>
 </div>
 
-## 📈 Stats
+### 📈 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MullerPietPompies&show_icons=true&theme=dark&hide=stars,prs&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=MullerPietPompies&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/MullerPietPompies)
 
-###
 ## 🎶 Music I am currently listening
 
 <div align="center">

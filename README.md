@@ -35,12 +35,14 @@
 ---
 
 ## 📈 Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MullerPietPompies&show_icons=true&theme=dark&hide=stars,prs&include_all_commits=true" alt="GitHub stats" />
   &nbsp;&nbsp;
   <a href="https://github.com/MullerPietPompies">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MullerPietPompies&show_icons=true&theme=dark&include_all_commits=true" alt="Top languages" />
   </a>
+  <img src="https://activity-graph.herokuapp.com/graph?username=MullerPietPompies&theme=github-dark" alt="contribution graph" />
 </p>
 
 ---

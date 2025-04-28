@@ -1,4 +1,10 @@
-<h2 align="left">My name is Muller and I'm a Computer Science Student, from South Africa</h2>
+<h2 align="left"> Hey! My name is Muller and I'm a Computer Science Student, from South Africa</h2>
+
+### Interests
+
+- Systems Programming
+- Computer Vision
+- Cybersecurity
 
 ![](https://raw.githubusercontent.com/MullerPietPompies/githubStats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/MullerPietPompies/githubStats/master/generated/overview.svg#gh-light-mode-only)

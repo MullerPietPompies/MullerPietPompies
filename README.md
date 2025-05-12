@@ -14,7 +14,7 @@
 
 ## 🎯 What I’m Into
 <p align="center">
-  Systems Programming &nbsp;•&nbsp; Computer Vision &nbsp;•&nbsp; Cybersecurity
+  Systems Programming &nbsp;•&nbsp; Computer Vision &nbsp;•&nbsp; Cybersecurity &nbsp;•&nbsp; Computer Graphics
 </p>
 
 ---

@@ -30,6 +30,8 @@
   <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  &nbsp;&nbsp;
+  <img src="https://icon.icepanel.io/Technology/svg/OpenGL.svg" height="30" alt="rust logo" />
 </p>
 
 ---

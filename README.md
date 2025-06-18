@@ -39,11 +39,6 @@
 ## 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MullerPietPompies&show_icons=true&theme=dark&hide=stars,prs&include_all_commits=true" alt="GitHub stats" />
-  &nbsp;&nbsp;
-  <a href="https://github.com/MullerPietPompies">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MullerPietPompies&show_icons=true&theme=dark&include_all_commits=true" alt="Top languages" />
-  </a>
   <img 
     alt="Muller’s GitHub Activity Graph" 
     src="https://github-readme-activity-graph.vercel.app/graph?username=MullerPietPompies&theme=github-dark&area=true&hide_border=true&radius=16&color=ffffff&line=2b2b2b&point=4CAF50" 

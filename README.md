@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Muller</h1>
-<p align="center">🎓 Computer Science Student | 🇿🇦 South Africa</p>
+<p align="center">🎓 Data Science and Software Engineering | 🇿🇦 South Africa</p>
 
 <div align="center">
   <a href="mailto:mullerdannhauser1@gmail.com" target="_blank">

@@ -16,8 +16,7 @@
 
 I build production ML systems on the We Buy Cars data science team.
 
-- **Computer vision in production.** Vision-based damage assessment and car part segmentation, serving about a thousand requests a day. I own these services end to end, including the call when they break.
-- **OCR.** End-to-end pipelines that read and analyse text on vehicles.
+- **Computer vision in production.** Vision-based car license plate replacement, serving about a thousand requests a day. I own these services end to end.
 - **LLM systems.** A context-aware RAG chatbot for internal support, built solo from brief to production.
 - **Agent harnesses and workflow automation.** Skills, hooks, multi-agent orchestration and the guardrails around them, on Claude Code and other agentic tools, for engineering work and the pipelines around it.
 - **The rest.** Redesigning existing models and services, standing up new endpoints, and the full-stack work around them in React, deployed on Azure.

@@ -52,7 +52,7 @@ I build production ML systems on the We Buy Cars data science team.
 
 Most of what I build is in private repositories at We Buy Cars. What is public:
 
-- **[ml-from-scratch](https://github.com/MullerPietPompies/ml-from-scratch)** — Deep-ML problems and Tensor Puzzles, implemented without tools, committed as I go.
+- **[deep-ml](https://github.com/MullerPietPompies/deep-ml)** — Deep-ML problems and Tensor Puzzles, implemented without tools, committed as I go.
 
 ---
 

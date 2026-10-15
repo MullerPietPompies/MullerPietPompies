@@ -1,57 +1,60 @@
-<h1 align="center">👋 Hi, I’m Muller</h1>
-<p align="center">🎓 Data Science and Software Engineering | 🇿🇦 South Africa</p>
+<h1 align="center">Muller Dannhauser</h1>
+<p align="center">Data and ML engineer, Pretoria. BSc Computer Science, University of Pretoria.</p>
 
 <div align="center">
   <a href="mailto:mullerdannhauser1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/muller-dannhauser-02923424b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </div>
 
 ---
 
-## 🎯 What I’m Into
+## What I do
+
+I build production ML systems on the We Buy Cars data science team.
+
+- **Computer vision in production.** Vision-based damage assessment and car part segmentation, serving about a thousand requests a day. I own these services end to end, including the call when they break.
+- **OCR.** End-to-end pipelines that read and analyse text on vehicles.
+- **LLM systems.** A context-aware RAG chatbot for internal support, built solo from brief to production.
+- **The rest.** Redesigning existing models and services, standing up new endpoints, and the full-stack work around them in React Native, deployed on Azure.
+
+---
+
+## Stack
+
 <p align="center">
-  Systems Programming &nbsp;•&nbsp; Computer Vision &nbsp;•&nbsp; Cybersecurity &nbsp;•&nbsp; Computer Graphics
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyTorch" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="OpenCV" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain" height="30" alt="LangChain" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="30" alt="Snowflake" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="Azure" />
+</p>
+
+<p align="center">
+  Python, PyTorch and OpenCV for the vision work. LangChain for the LLM systems. Snowflake for the data. Azure for all of it. Around them, Go and React Native.
 </p>
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=rust" height="30" alt="rust logo" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  &nbsp;&nbsp;
-  <img src="https://icon.icepanel.io/Technology/svg/OpenGL.svg" height="30" alt="rust logo" />
-</p>
+## Work
+
+Most of what I build is in private repositories at We Buy Cars. What is public:
+
+- **[ml-from-scratch](https://github.com/MullerPietPompies/ml-from-scratch)** — Deep-ML problems and Tensor Puzzles, implemented without tools, committed as I go.
 
 ---
 
-## 📈 Stats
+## Now
 
-<p align="center">
-  <img 
-    alt="Muller’s GitHub Activity Graph" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MullerPietPompies&theme=github-dark&area=true&hide_border=true&radius=16&color=ffffff&line=2b2b2b&point=4CAF50" 
-    width="700" 
-  />
-</a>
-</p>
+Reading <em>AI Engineering</em> by Chip Huyen. Working through Deep-ML and Tensor Puzzles from scratch, most days, no tools open.
 
----
-
-## 🎶 Music I’m Currently Listening To
-<p align="center">
-  <a href="https://open.spotify.com/user/bo1c6g7z0j95c9phsylr5zbik">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=bo1c6g7z0j95c9phsylr5zbik&count=5&unique=true" alt="Spotify recently played" />
-  </a>
-</p>
+Off the keyboard: Running, Hiking, Nature and Conservation, Brazilian Jiu Jitsu, tennis, golf, photography.

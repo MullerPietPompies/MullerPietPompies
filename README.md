@@ -60,4 +60,4 @@ Most of what I build is in private repositories at We Buy Cars. What is public:
 
 Reading <em>AI Engineering</em> by Chip Huyen. Working through Deep-ML and Tensor Puzzles from scratch, most days, no tools open.
 
-Off the keyboard: Brazilian Jiu Jitsu, tennis, golf, photography.
+Off the keyboard: Brazilian Jiu Jitsu, Running, tennis, golf, photography.

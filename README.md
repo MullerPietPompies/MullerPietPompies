@@ -20,7 +20,7 @@ I build production ML systems on the We Buy Cars data science team.
 - **OCR.** End-to-end pipelines that read and analyse text on vehicles.
 - **LLM systems.** A context-aware RAG chatbot for internal support, built solo from brief to production.
 - **Agent harnesses and workflow automation.** Skills, hooks, multi-agent orchestration and the guardrails around them, on Claude Code and other agentic tools, for engineering work and the pipelines around it.
-- **The rest.** Redesigning existing models and services, standing up new endpoints, and the full-stack work around them in React Native, deployed on Azure.
+- **The rest.** Redesigning existing models and services, standing up new endpoints, and the full-stack work around them in React, deployed on Azure.
 
 ---
 
@@ -43,7 +43,7 @@ I build production ML systems on the We Buy Cars data science team.
 </p>
 
 <p align="center">
-  Python, PyTorch and OpenCV for the vision work. LangChain for the LLM systems. Claude Code and agentic tooling for the harnesses. Snowflake for the data. Azure for all of it. Around them, Go and React Native.
+  Python, PyTorch and OpenCV for the vision work. LangChain for the LLM systems. Claude Code and agentic tooling for the harnesses. Snowflake for the data. Azure for all of it. Around them, Go and React.
 </p>
 
 ---
